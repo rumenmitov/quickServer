@@ -8,6 +8,8 @@
 1. Clone the repository and move / copy it to `/usr/local/bin`  
 2. Execute the following commands:  
 ```  
+cd /usr/local/bin/quickServerProject
+sudo npm install
 sudo chmod +x /usr/local/bin/quickServerProject/quickServer  
 sudo cp /usr/local/bin/quickServerProject/quickServer /usr/local/bin  
 ```  
