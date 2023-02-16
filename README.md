@@ -1,5 +1,5 @@
 # Quick Server
-![The San Juan Mountains are beautiful!](https://img.shields.io/badge/License-MIT-red)
+![license image](https://img.shields.io/badge/License-MIT-red)
 --------------
 ## Prerequisites
 - [x] node
