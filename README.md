@@ -1,5 +1,5 @@
 # Quick Server
-![license image](https://img.shields.io/badge/License-MIT-red)
+![license image](https://img.shields.io/badge/License-MIT-red) ![](https://img.shields.io/badge/Built%20with-Node-brightgreen)
 --------------
 ## Prerequisites
 - [x] node
