@@ -2,8 +2,7 @@
 ![license image](https://img.shields.io/badge/License-MIT-red) ![](https://img.shields.io/badge/Built%20with-Node-brightgreen)
 --------------
 ## Prerequisites ✅
-- [x] node
-- [x] npm
+- [x] [node & npm](https://nodejs.org/en/download/)
 --------------
 ## Installation & Setup 📸  
 1. Clone the repository and move / copy it to `/usr/local/bin`  
