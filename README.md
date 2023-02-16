@@ -17,7 +17,7 @@ sudo cp /usr/local/bin/quickServerProject/quickServer /usr/local/bin
 If you are editing a html document in vim and want to quickly host it, add the following to your *.vimrc* file:
 ```  
 command QuickServer !quickServer %:p  
-```  
+```   
 Save your configuration and you can now host the html page with the following vim command: `:QuickServer`  
 -----------------  
 ## Further Information
