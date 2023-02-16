@@ -18,7 +18,7 @@ If you are editing a html document in vim and want to quickly host it, add the f
 ```  
 command QuickServer !quickServer %:p  
 ```   
-Save your configuration and you can now host the html page with the following vim command: `:QuickServer`  
+<p>Save your configuration and you can now host the html page with the following vim command: `:QuickServer`</p>  
 -----------------  
 ## Further Information
 The server is hosted in the background and you can run `ps aux | grep 'node'` to find its process id. You can then kill the process with: `sudo kill -9 process_id`. Make sure to replace *process_id* with the process id from the **ps aux** command.  
