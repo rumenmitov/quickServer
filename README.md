@@ -21,7 +21,7 @@ If you are editing a html document in vim and want to quickly host it, add the f
 command QuickServer !quickServer %:p  
 ```   
 Save your configuration and you can now host the html page with the following vim command: `:QuickServer`   
-**NOTE:** Make sure you have *sudo* priveleges beforehand (i.e. try `sudo vim`, exit and then open your html file)  
+**NOTE:** Make sure you have *sudo* priveleges beforehand (i.e. try `sudo vim`, exit and then open your html file)!  
 
 -----------------  
 ## Further Information 📖
