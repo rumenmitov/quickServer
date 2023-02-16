@@ -1,11 +1,11 @@
-# Quick Server
+# Quick Server 🖥
 ![license image](https://img.shields.io/badge/License-MIT-red) ![](https://img.shields.io/badge/Built%20with-Node-brightgreen)
 --------------
-## Prerequisites
+## Prerequisites ✅
 - [x] node
 - [x] npm
 --------------
-## Installation & Setup  
+## Installation & Setup 📸  
 1. Clone the repository and move / copy it to `/usr/local/bin`  
 2. Execute the following commands:  
 ```  
@@ -22,6 +22,6 @@ command QuickServer !quickServer %:p
 Save your configuration and you can now host the html page with the following vim command: `:QuickServer`   
 
 -----------------  
-## Further Information
+## Further Information 📖
 The server is hosted in the background and you can run `ps aux | grep 'node'` to find its process id. You can then kill the process with: `sudo kill -9 process_id`. Make sure to replace *process_id* with the process id from the **ps aux** command.  
 **NOTE:** The server remains active until you close your terminal. 
